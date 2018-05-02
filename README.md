@@ -1,2 +1,10 @@
-# Facial_Expression_Recognition
-Final 2nd year project on "Facial Expression Recognition" using OpenCV and Deep Neural Network.
+# Human-Facial-Emotion-Recognition
+
+INTRODUCTION:
+->This project focuses on real time facial expression analysis using deep convulational network and Tflearn
+
+COMPATIBILITY:
+->This code has been tested on Windows 10 and is most likely compatible on all platform.
+
+DEPENDENCIES:
+ OpenCV 3.0, Python 3.6 ,TFlearn
