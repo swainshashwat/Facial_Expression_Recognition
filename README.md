@@ -1,10 +1,11 @@
-# Human-Facial-Emotion-Recognition
+# Human-Facial-Express-Recognition
 
-INTRODUCTION:
-->This project focuses on real time facial expression analysis using deep convulational network and Tflearn
+## PROJECT NAME
+Facial Express Recognition
 
-COMPATIBILITY:
-->This code has been tested on Windows 10 and is most likely compatible on all platform.
+## PROJECT DESCRIPTION
+In this project, we have focused on implementing a real-time facial expression analysis using CNN.
 
-DEPENDENCIES:
- OpenCV 3.0, Python 3.6 ,TFlearn
+## PROJECT REPORT
+
+
